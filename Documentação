@@ -1,0 +1,9 @@
+Padrão de projeto
+- Façade
+
+Justificativa
+- O padrão façade fornece uma interface simplificada que encapsula toda a lógica em uma única classe. 
+- Reduz a complexidade do sistema e fornece uma interface com os detalhes da implementação, facilitando a utilização do mesmo.
+- Mais fácil de fazer a manuenção do código.
+- Mais fácil a reutilização do código.
+- Ótima adaptação.
